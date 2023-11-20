@@ -17,4 +17,5 @@ Consists of two files from Mackenzie (2019).
 The program takes the data from the *event file* & *experiment file* to reverse-engineer the questions that were asked to the participants. The events that a particular participant experienced are fed to a large-language model (GPT3.5 Turbo). Subsequently, the questions are provided sequentially and the output is saved.
 
 ## Data Analysis
-*WIP*
+*Filename: analysis_event.ipynb*
+The program takes the data from *experiment file* and files generated from *gpt_remembering_events.ipynb* to perform analysis.
