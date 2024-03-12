@@ -1,5 +1,10 @@
 # Research Topic: Remembering Real World Events (LLMs)
 
+## Research Outcome
+https://medium.com/@yupingan/can-chatgpt-predict-human-location-memory-203e906ee33d
+
+---
+
 ## Research Inspiration ([Simon Dennis](https://findanexpert.unimelb.edu.au/profile/811247-simon-dennis)):
 Where were you at 2pm last Thursday? Questions like these are important for us as individuals but also have significant consequence for eye witness testimony (Laliberte, Yim, Stone & Dennis, 2021) and for public health (e.g. covid contact tracing). We have collected data including images, locations, audio and accelerometry from participants over a period of month and subsequently asked them where they were. In this project, we will provide this data to a pretrained large language model and see whether it makes the same kinds of errors as people do.
 Laliberte, E., Yim, H., Stone, B., & Dennis, S. J. (2021). The fallacy of an airtight alibi: Understanding human memory for “where” using experience sampling. Psychological Science, 32(6), 944-951.
