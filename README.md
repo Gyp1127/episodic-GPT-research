@@ -2,6 +2,7 @@
 
 ## Research Outcome
 https://medium.com/@yupingan/can-chatgpt-predict-human-location-memory-203e906ee33d
+https://youtu.be/jq_tF-XTpQQ?t=1832
 
 ---
 
