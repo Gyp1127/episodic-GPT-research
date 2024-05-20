@@ -1,7 +1,7 @@
 # Research Topic: Remembering Real World Events (LLMs)
 
 ## Research Outcome
-https://medium.com/@yupingan/can-chatgpt-predict-human-location-memory-203e906ee33d
+https://medium.com/@yupingan/can-chatgpt-predict-human-location-memory-203e906ee33d <br>
 https://youtu.be/jq_tF-XTpQQ?t=1832
 
 ---
